@@ -2,4 +2,4 @@
 
 Welcome to the repository for my personal website! 🚀
 
-You can check it out [here](n.iliou.de).
+[Check it out](n.iliou.de)
