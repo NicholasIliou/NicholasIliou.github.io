@@ -1,44 +1,10 @@
-.stackable {
-    position: relative;
-    display: block;
-    width: 100%;
-    padding: 50px;
-    text-align: center;
-    font-size: 24px;
-    font-weight: bold;
-    color: white;
-    background: #333;
-    text-decoration: none;
-    overflow: hidden;
-    transition: background 0.3s ease;
-}
-
-.stackable img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    opacity: 0;
-    transition: opacity 0.3s ease;
-}
-
-.stackable:hover img {
-    opacity: 1;
-}
-
-.stackable:hover {
-    background: rgba(0, 0, 0, 0.7);
-}
-
 button {
-    background-color: black;
-    color: white;
+    background-color: #f4f4f4;
     font-family: Arial, sans-serif;
-    font-size: 16px;
-    padding: 10px 20px;
-    border: 2px solid white;
+    font-size: 64px;
+    height: 10vw;
+    width: 100vw;
+    border: #f4f4f4;
     cursor: pointer;
     transition: background-color 0.3s, color 0.3s;
   }
