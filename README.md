@@ -1,4 +1,7 @@
-# Personal Website
+# DEPRECATED
+---
+
+### Personal Website
 
 Welcome to the repository for my personal website! 🚀
 
